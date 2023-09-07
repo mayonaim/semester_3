@@ -28,21 +28,193 @@ class MyHomePage extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
-            Container(
-              child: Text("Halo Wrlod"),
-              color: Colors.red[50],
-              padding: EdgeInsets.all(16.0),
-            ),
-            Container(
-              child: Text("Halo World"),
-              color: Colors.green[50],
-              padding: EdgeInsets.all(16.0),
-            ),
-            Container(
-              child: Text("Halo Wrold"),
-              color: Colors.blue[50],
-              padding: EdgeInsets.all(16.0),
-            ),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
+            Row(children: <Widget>[
+              Container(
+                child: Text("Halo Wrlod"),
+                color: Colors.red[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo World"),
+                color: Colors.green[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+              Container(
+                child: Text("Halo Wrold"),
+                color: Colors.blue[50],
+                padding: EdgeInsets.all(16.0),
+              ),
+            ]),
           ],
         ));
   }
